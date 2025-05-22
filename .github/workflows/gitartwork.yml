@@ -1,0 +1,14 @@
+name: Generate Gitartwork SVG
+on: 
+  push:
+jobs:
+  build:
+    name: Create Gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           user_name: toshakparmar
+           text: TOSHAK
+      - uses: jasineri/simple-push-action@v1
