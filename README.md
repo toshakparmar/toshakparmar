@@ -56,11 +56,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=toshakparmar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=toshakparmar&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshakparmar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+<div align="center">
+<img width=390 src="https://streak-stats.demolab.com/?user=toshakparmar&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=toshakparmar&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=false" alt="readme stats" />
+<br/>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshakparmar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
