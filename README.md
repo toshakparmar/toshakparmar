@@ -6,33 +6,47 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Toshak+Parmar!;" />
 </h1>
 
-<h3 align="center">A Passionate Backend Developer!</h3>
+<h3 align="center">🚀 Full Stack Developer | Node.js • NestJS • React • Next.js</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Dev-Soft (Soft Skills Enhancer)**
- 
- 🌱 I’m currently learning **ReactJs, Authentication**
 
-💬 Ask me about **HTML, CSS, Javascript, PHP, Laravel, Node.js... or anything ?**
+🔭 Currently building <b>TechStack OTT – Software Project Marketplace</b>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/toshak-parmar-673968263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/toshakparmar" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> 
+🌱 Currently learning <b>System Design, Cloud Architecture, AI Integrations & Microservices</b>
+
+💼 1.5+ Years of Experience in <b>Node.js, NestJS, Express.js, React.js & Next.js</b>
+
+⚡ Specialized in <b>PostgreSQL, MongoDB, Prisma ORM, Redis, Docker & REST APIs</b>
+
+💬 Ask me about <b>Node.js, NestJS, React, Next.js, PostgreSQL, MongoDB, Prisma, Docker & Backend Development</b>
+
+🎯 Goal: <b>Building Scalable Products & Becoming a World-Class Software Engineer</b>
+
 </div>
 
- <hr/>
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/toshak-parmar-673968263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:toshakparmar2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/toshakparmar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://codesmachers.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
