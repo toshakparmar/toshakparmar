@@ -54,15 +54,20 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=toshakparmar&theme=react&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=toshakparmar&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=false" alt="readme stats" />
-<br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshakparmar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
+<hr/>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toshakparmar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshakparmar&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshakparmar&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<hr/>
 <br/><br/>
 
 <hr/>
