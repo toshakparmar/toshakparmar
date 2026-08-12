@@ -12,17 +12,19 @@
 
 <div align="center">
 
-🔭 Currently building <b>TechStack OTT – Software Project Marketplace</b>
+🔭 Currently building <b>scalable, production-ready software products</b>
 
-🌱 Currently learning <b>System Design, Cloud Architecture, AI Integrations & Microservices</b>
+🌱 Currently learning <b>System Design, Cloud Architecture, AI Integration & Microservices</b>
 
-💼 1.5+ Years of Experience in <b>Node.js, NestJS, Express.js, React.js & Next.js</b>
+💼 <b>2+ Years of Experience</b> building applications with <b>Node.js, NestJS, Express.js, React.js & Next.js</b>
 
-⚡ Specialized in <b>PostgreSQL, MongoDB, Prisma ORM, Redis, Docker & REST APIs</b>
+⚡ Specialized in <b>TypeScript, PostgreSQL, MongoDB, Prisma ORM, Redis, Docker & REST APIs</b>
 
-💬 Ask me about <b>Node.js, NestJS, React, Next.js, PostgreSQL, MongoDB, Prisma, Docker & Backend Development</b>
+🤖 Exploring <b>AI-powered applications, LLM integrations, Web3 & scalable backend systems</b>
 
-🎯 Goal: <b>Building Scalable Products & Becoming a World-Class Software Engineer</b>
+💬 Ask me about <b>Node.js, NestJS, React, Next.js, PostgreSQL, MongoDB, Prisma, Docker & Backend Architecture</b>
+
+🎯 Goal: <b>Building scalable products and becoming a world-class software engineer</b>
 
 </div>
 
